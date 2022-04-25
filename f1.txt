@@ -2,4 +2,4 @@ Hello login
 hello remote repository 
 undo changes 
 using "git remote add origin http:// ......  master/login (branch name)
-
+This change was made on GitHub 
